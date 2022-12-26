@@ -1,4 +1,8 @@
+    
 {
-    "calculator-solution",
+
+    "testRepo":"calculator-solution",
+
     "pathToFile": "cypress/integration/tests/test.spec.js"
+
 }
